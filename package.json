@@ -1,0 +1,30 @@
+{
+  "name": "sarah",
+  "version": "1.0.0",
+  "description": "Sarah, the discord bot for everything!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gigglees/Sarah.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Gigglees",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gigglees/Sarah/issues"
+  },
+  "homepage": "https://github.com/Gigglees/Sarah#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@types/node": "^20.11.6",
+    "discord.js": "^14.14.1"
+  }
+}
