@@ -21,4 +21,6 @@ client.once('ready', () => {
 	});
 });
 
+// i really hate typescript
+
 client.login(token);
