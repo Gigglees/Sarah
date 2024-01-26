@@ -21,6 +21,6 @@ client.once('ready', () => {
 	});
 });
 
-//test
+// ur mom sucks
 
 client.login(token);
