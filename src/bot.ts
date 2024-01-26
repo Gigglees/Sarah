@@ -21,8 +21,6 @@ client.once('ready', () => {
 	});
 });
 
-// i really hate typescript
-
-// I ALSO HATE TS
+//test
 
 client.login(token);
